@@ -1,0 +1,4 @@
+bardia 100
+mahsa 20
+amir 10
+gav 0
